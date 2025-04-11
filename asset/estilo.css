@@ -37,7 +37,6 @@ img {
   align-items: center;
   padding: 1px;
   margin-top: 100px;
-  padding: 10px;
   height: 300px;
   width: 350px;
   border: 2px solid rgb(0, 129, 112);
@@ -49,7 +48,8 @@ img {
   border: 2px solid rgb(0, 129, 112);
 }
 h1 {
-  position: absolute;
+  text-align: center;
+  align-items: center;
   padding: 15px;
   color: rgb(0, 129, 112);
   align-items: center;
